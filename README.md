@@ -32,7 +32,7 @@ cd KANHA
 
 python3 KANHA.py
 
-CREDIT   GOES   TO
+# CREDIT   GOES   TO
 
 Mr Rana Nadeem Rajput
 
